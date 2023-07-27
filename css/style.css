@@ -1,0 +1,28 @@
+
+body::selection{
+    background-color: #3367D1;
+    color: white;
+}
+
+h1{
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    margin-block: 3.375rem;
+}
+
+p{
+    font-size: 2.1875rem;
+    margin-block: 2.1875rem;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    width: 255px;
+    height: 80px;
+}
+
+button:hover{
+    background-color: green;
+}
